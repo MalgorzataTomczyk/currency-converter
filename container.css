@@ -1,0 +1,11 @@
+.container {
+    max-width: 600px;
+    margin: 10;
+    border-radius: 20;
+    padding: 40 25px;
+    background-color: rgb(243, 243, 212);
+}
+
+.container__sourceInformationParagraph {
+    color: darkgrey;
+}
