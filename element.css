@@ -1,0 +1,9 @@
+.element {
+    resize: both;
+    overflow: auto;
+    background-size:150px;
+    background-size: 180px;
+    background-image: url("./Images/currency.jpg");
+    background-repeat:no-repeat;
+    background-position: 90% 10%;
+}
