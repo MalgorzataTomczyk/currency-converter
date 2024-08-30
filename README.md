@@ -1,7 +1,7 @@
 # Małgorzata Tomczyk - Currency converter
 
 ## Demo
-Check out the live demo of my website [here](#). 
+Check out the live demo of my website [here](https://malgorzatatomczyk.github.io/currency-converter.github.io/). 
 
 ## About
 Convert the value of PLN to EUR, GBP, or USD using the NBP exchange rate from 23.08.2024.
